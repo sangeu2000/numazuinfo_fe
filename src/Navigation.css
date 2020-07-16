@@ -1,0 +1,9 @@
+@media (min-width: 992px) {
+    #navbar-menu-left {
+        width: 80%
+    }
+
+    #navbar-menu-right {
+        width: 20%
+    }
+}
